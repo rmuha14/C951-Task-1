@@ -3,17 +3,17 @@
 	
     <category>
         <pattern>HOWDY</pattern>
-        <template><delay>1</delay>Hi! My name is Career Helper. What is your name? (My name is...)</template>
+        <template><delay>1</delay>Hi! I am MentorBot. What is your name? (My name is...)</template>
     </category>
     
     <category>
         <pattern>HELLO THERE</pattern>
-        <template><delay>1</delay>Hi! My name is Career Helper. What is your name? (My name is...)</template>
+        <template><delay>1</delay>Hi! I am MentorBot. What is your name? (My name is...)</template>
     </category>
     
     <category>
         <pattern>HI</pattern>
-        <template><delay>1</delay>Hi! My name is Career Helper. What is your name? (My name is...)</template>
+        <template><delay>1</delay>Hi! I am MentorBot. What is your name? (My name is...)</template>
     </category>
 	
 </aiml>
